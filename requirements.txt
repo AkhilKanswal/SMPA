@@ -1,0 +1,8 @@
+1. Python 3.13.4 or higher
+2. Html5
+3. Css3
+4. Bootstrap
+5. Django 
+6. djangorestframework
+7. react
+8. npm
