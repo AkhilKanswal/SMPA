@@ -1,0 +1,18 @@
+*{
+    background-color: color-mix(in srgb, black 90%, navy 10%);
+    
+}
+
+.bg-light-dark{
+    background-color: '#2B303'
+}
+
+#root{
+    display:flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.container{
+    flex:1;
+}

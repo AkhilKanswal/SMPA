@@ -58,7 +58,7 @@ Checklist:
 
  Set up REST API (install DRF, create serializers & views)
 
- Set up React frontend (npx create-react-app)
+ Set up React frontend (using "npm create vite@latest")
 
  Set up Git & version control from the start
 
